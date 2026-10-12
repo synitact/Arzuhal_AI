@@ -1,0 +1,6 @@
+{
+  "name": "Aile Mahkemesi Asistanı",
+  "description": "Yapay zeka destekli Aile Mahkemesi dilekçe projelendirme, adım adım başvuru ve süreç rehberliği platformu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
